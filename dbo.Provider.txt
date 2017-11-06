@@ -1,0 +1,9 @@
+ID|Name|ServiceType
+1|Netflix|Streaming
+2|Amazon Prime|Streaming
+3|Comcast|Cable
+4|Direct TV|Satelite
+5|Charter|Cable
+6|Wow|Cable
+7|Dish|Satelite
+8|Hulu|Streaming
